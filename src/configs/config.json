@@ -1,0 +1,23 @@
+{
+  "development": {
+      "username": "root",
+      "password": "KhoaDev123",
+      "database": "Beautice",
+      "host": "localhost",
+      "dialect": "mysql",
+      "port": "3306",
+      "logging": false,
+      "query": {
+          "raw": true
+      },
+      "operatorsAliases": 0,
+      "dialectOptions": {
+          "dateStrings": true,
+          "typeCast": true,
+          "timezone": "+07:00"
+      },
+      "timezone": "+07:00"
+  },
+  "test": { },
+  "production": { }
+}
